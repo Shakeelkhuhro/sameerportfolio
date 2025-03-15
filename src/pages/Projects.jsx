@@ -1,7 +1,6 @@
 import React from "react";
 import "./Projects.css";
 
-// Importing thumbnails
 import parkNDepartThumb from "../imgs/image1.png";
 import covidLandingThumb from "../imgs/image2.png";
 import realEstateThumb from "../imgs/image3.png";

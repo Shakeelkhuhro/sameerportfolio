@@ -46,7 +46,6 @@ ul li {
   margin: 5px 0;
 }
 
-/* Skills Grid */
 .skills-list {
   display: flex;
   flex-wrap: wrap;
@@ -68,7 +67,6 @@ ul li {
   background: #00C9A7;
 }
 
-/* Buttons */
 .about-buttons {
   margin-top: 25px;
   text-align: center;
@@ -106,7 +104,6 @@ ul li {
   opacity: 0.9;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
   .about-content {
     align-items: center;
