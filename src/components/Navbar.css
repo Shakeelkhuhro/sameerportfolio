@@ -32,3 +32,15 @@
 .dark-mode .navbar-brand {
   color: white !important;
 }
+
+.logo {
+  font-family: 'Arial Black', sans-serif;
+  font-size: 1.5rem;
+  color: #007BFF;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.dark-mode .logo {
+  color: #00C9A7;
+}

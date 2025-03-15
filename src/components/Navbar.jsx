@@ -25,7 +25,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar navbar-expand-lg ${darkMode ? "dark-mode" : ""}`}>
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/">MyPortfolio</Link>
+        <Link className="navbar-brand logo" to="/">Sameer</Link>
         <div className="d-lg-none">
           <DarkModeToggle />
         </div>
